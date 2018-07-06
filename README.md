@@ -2,3 +2,5 @@
 
 The shiboken2 and pyside2 repositories are now merged into pyside-setup.
 This repository only exists to hold the wiki. We will move that, too.
+
+See: https://github.com/qtproject/pyside-pyside-setup
